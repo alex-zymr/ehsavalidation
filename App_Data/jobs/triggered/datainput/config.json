@@ -2,11 +2,11 @@
 	"messageCount": 3500,
 	"delayBetweenMessages": 150,
 	"serviceBus": {
-		"namespace": "sisbutbc53vivhywg",
-		"eventHub": "telemetryhub",
+		"namespace": "iotservicebus121",
+		"eventHub": "ioteventhub121",
 		"sharedAccessKey": {
-			"name": "AllAccessPolicy",
-			"secret": "ou8F+hklzk7F+JliJnFqTdCy+qNbjafhNE/AsGodUjU="
+			"name": "RootManageSharedAccessKey",
+			"secret": "FfzfKIEpvLMhxiBCEb2dvzSOI/2mCPd6By7oNLFudu4="
 		}
 	},
 	"sensors": {
